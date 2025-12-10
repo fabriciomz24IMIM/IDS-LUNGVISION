@@ -1,0 +1,28 @@
+{
+  "test_samples": 476,
+  "childhood_count": 330,
+  "adult_count": 146,
+  "childhood_percent": 69.32773109243698,
+  "adult_percent": 30.672268907563026,
+  "childhood_to_adult_ratio": 2.26027397260274,
+  "train_childhood": 1328,
+  "train_adult": 576,
+  "base_value": -0.6730164885520935,
+  "mean_prediction": 0.30238634098529416,
+  "top_childhood_features": [
+    "Shortness of breath on stairs",
+    "BMI",
+    "Total Cholesterol",
+    "High blood pressure",
+    "Urinary Total NNAL"
+  ],
+  "top_childhood_shap": [
+    -0.11061260849237442,
+    -0.13243460655212402,
+    -0.1071367934346199,
+    -0.026171298697590828,
+    -0.053554754704236984
+  ],
+  "top_adult_features": [],
+  "top_adult_shap": []
+}
