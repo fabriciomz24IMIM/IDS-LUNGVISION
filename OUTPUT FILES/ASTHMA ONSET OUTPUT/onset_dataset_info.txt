@@ -1,0 +1,19 @@
+ONSET PREDICTION DATASET INFO
+==================================================
+
+train_samples: 1904
+test_samples: 476
+train_childhood: 1328
+train_adult: 576
+test_childhood: 330
+test_adult: 146
+train_childhood_pct: 69.74789915966386
+train_adult_pct: 30.252100840336134
+test_childhood_pct: 69.32773109243698
+test_adult_pct: 30.672268907563026
+num_features: 22
+features_used: ['Avg # alcoholic drinks/day', 'BMI', 'High blood pressure', 'Eosinophils', 'White blood cell count', 'Basophils', 'Red blood cell count', 'Shortness of breath on stairs', 'Gender', 'Mother smoked when pregnant']
+excluded_age: True
+imbalance_ratio: 2.3055555555555554
+best_model: LR
+best_auc: 0.8266609866645012
