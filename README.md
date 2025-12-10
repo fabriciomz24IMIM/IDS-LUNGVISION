@@ -61,8 +61,8 @@ pip install pandas numpy scipy xgboost scikit-learn matplotlib seaborn joblib sh
 ### Repository Structure
 
 ```
-DATASETS/
-    └── Contains dataset files used for model training and analysis
+DATA PREPROCCESING/
+    └── Contains dataset files used for making the merged datasets model training and analysis
 
 Scripts/
     ├── Data_cleaning_and_preprocessing.ipynb
